@@ -1,0 +1,14 @@
+ipython
+beautifulsoup4
+requests
+nltk
+langchain
+chromadb
+sentence-transformers
+transformers
+accelerate
+langchain_huggingface
+langchain-community
+langchain-ollama
+streamlit
+

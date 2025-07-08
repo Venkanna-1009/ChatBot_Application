@@ -1,0 +1,790 @@
+# Oil & Gas
+elevate operational efficiencies cutting edge cost effective digital solutions
+# Petrochemicals
+solutions help automate tasks optimize production lines boost quality
+# Chemicals
+help adapt demand shifts optimize product mix improve efficiency
+# Power Plants
+help maximize fuel efficiency track assets predict asset maintenance needs
+# Metals
+equip insights smarter extraction improved processing maximized yield
+# Cement
+enable productive environment efficient processes powered data analytics
+# Paper & Pulp
+streamline data anaytics optimize performance safer reliable efficient build
+# Renewable Energy
+empower produce reliable clean affordable power industry evolves
+# Digital Logbooks
+digitalizes data logging field operator panel operator shift engineers
+# Asset Performance
+optimize performance reliability longevity critical assets
+# Energy Management
+build energy efficiency slash energy costs boost profits
+# inSis Suite with AI
+empower industrial operations insis suite comprehensive solution powered cutting edge ai platform insis ai
+# GetSmarter
+relevant information available fingertips time every time make intelligent prompt decisions levels across domains enterprise achieved industry centric data analytics done critical date data made available integrated platform transformative digitalization technologies
+# Integration of Dashboards with Central RDMS Server for R&D Unit
+key objective integration dashboards reports slds analytics around 22
+# Monitor Real-time Data with ABT/DSM/UI Solutions
+solution co generation power plant deployed across 4 sites varying capacities
+# NextGen Refinery MIS Portal with Data Analytics & Mobility
+one largest refineries india looking comprehensive reporting analytics
+elevate operational efficiencies cutting edge cost effective digital solutions
+solutions help automate tasks optimize production lines boost quality
+help adapt demand shifts optimize product mix improve efficiency
+help maximize fuel efficiency track assets predict asset maintenance needs
+equip insights smarter extraction improved processing maximized yield
+enable productive environment efficient processes powered data analytics
+streamline data anaytics optimize performance safer reliable efficient build
+empower produce reliable clean affordable power industry evolves
+insis suite new generation software process data aggregation compression storage calculation visualisation powered time series data historian capabilities insis offers multiple solutions including automated reports dashboards digital logbook kpi management etc offer end end views plant processes leveraging power sophisticated methods technologies like generative ai ml enhanced simplicity products
+digitalizes data logging field operator panel operator shift engineers
+optimize performance reliability longevity critical assets
+build energy efficiency slash energy costs boost profits
+empower industrial operations insis suite comprehensive solution powered cutting edge ai platform insis ai
+relevant information available fingertips time every time make intelligent prompt decisions levels across domains enterprise achieved industry centric data analytics done critical date data made available integrated platform transformative digitalization technologies
+key objective integration dashboards reports slds analytics around 22
+solution co generation power plant deployed across 4 sites varying capacities
+one largest refineries india looking comprehensive reporting analytics
+# Overview
+insis ai architecture streamlines digital transformation enhances operational efficiency improves data quality across various plant operations provides natural language interface accessing plant information delivers meaningful summaries operational notes quick insights insis ai wrapper built top various insis modules help end users analyze predict critical parameters using various ai ml techniques like nlp pca ann svm etc platform specifically designed meet evolving technical requirements process manufacturing sector making use house developed small language model leverages nlp generative ai technologies offers several key modules addressing specific needs industry
+# Quality
+real time quality predictions prevent spec products
+# Reliability
+early warnings anomalies developing critical assets avoid breakdowns
+# Profitability
+optimal operating parameters maximize profitability
+# Productivity
+improved productivity ai assisted summary reports analytics
+# Real-time Product Quality Information
+ability predict real time quality metrics like ph levels lab measurements
+# Asset Anomaly& Failure Detection
+detecting early signs equipment failures avoid costly service interruptions
+# Optimizing OperatingParameters
+finding efficient operating conditions real time dynamically adjusting settings
+# Log Summarization & Issue Detection
+analyzing extensive operations logs comments activities pinpoint potential issues
+# A platform leveraging AI/ML for manufacturing
+insis ai versatile platform designed leverage ai ml generative ai variety applications process manufacturing industry offers following key modules addressing specific needs advanced technologies
+# PredIT
+functionality predicts anomalies qualities using deep learning models advanced pattern recognition identifies kpi deviations based process models real time
+# OptimizeIT
+functionality uses artificial intelligence machine learning models identify relationships process variables use optimisation process
+# AskIT
+functionality provides natural language interface providing various plant information generative ai nlp technologies assist users summarizing information context
+# ControlIT
+functionality predicts future process trajectories remarkable accuracy enabling automated control process plant significantly reducing need human intervention
+roadmap
+# Deployment
+available cloud premise
+# Subscription
+subscription based model
+# Access
+self service role based access
+# Use-cases
+ready made solutions industry
+# Predictivity
+accurate quality predictions real time
+# Reliability
+early failure detection response timing
+# Quality Assurance
+optimization operating conditions
+# Intelligent Management
+allocation resources optimally
+# Data Integration
+built support data integration
+# Processing
+gpu support faster processing
+# Scalability
+scalable multi site operations
+# Seamless Integration
+integration layers insis
+# inSis.AI adds a value layer from the digital transformation powered by inSis Suite
+insis ai insis suite seamlessly integrated insis suite powers digital transfrmation array solutions insis ai adds value layer combining predictability generativity optimize processes enhance digitalization streamline processes improve data availability quality system features user friendly interface operators engineers providing real time dashboards alerts detailed reports
+insis ai architecture streamlines digital transformation enhances operational efficiency improves data quality across various plant operations provides natural language interface accessing plant information delivers meaningful summaries operational notes quick insights insis ai wrapper built top various insis modules help end users analyze predict critical parameters using various ai ml techniques like nlp pca ann svm etc platform specifically designed meet evolving technical requirements process manufacturing sector making use house developed small language model leverages nlp generative ai technologies offers several key modules addressing specific needs industry
+real time quality predictions prevent spec products
+early warnings anomalies developing critical assets avoid breakdowns
+optimal operating parameters maximize profitability
+improved productivity ai assisted summary reports analytics
+ability predict real time quality metrics like ph levels lab measurements
+detecting early signs equipment failures avoid costly service interruptions
+finding efficient operating conditions real time dynamically adjusting settings
+analyzing extensive operations logs comments activities pinpoint potential issues
+insis ai versatile platform designed leverage ai ml generative ai variety applications process manufacturing industry offers following key modules addressing specific needs advanced technologies
+functionality predicts anomalies qualities using deep learning models advanced pattern recognition identifies kpi deviations based process models real time
+functionality uses artificial intelligence machine learning models identify relationships process variables use optimisation process
+functionality provides natural language interface providing various plant information generative ai nlp technologies assist users summarizing information context
+functionality predicts future process trajectories remarkable accuracy enabling automated control process plant significantly reducing need human intervention
+roadmap
+predit provides early anomaly detection assets advanced pattern recognition leveraging sensor residuals common library probability calculations predit generates apr based predictions identify anomalies predict remaining life mitigate risk predit delivers early warnings accurate remaining time act rta time failure ttf enabling proactive intervention
+predit offers real time troubleshooting kpi deviations ai ml models built kpi utilizing relevant input parameters kpi falls outside acceptable limits drifts away target models pinpoint likely contributing variable presenting information pareto chart provides operators engineers real time assistance enabling quickly understand address root cause deviation example quality metric goes spec predit identifies underlying cause providing detailed analytics insights facilitate prompt corrective action
+predit offers real time prediction key parameters qualities using ai ml models leveraging historical data models built critical product qualities key controlling parameters diesel end point reactor yield furnace co co2 excess o2 models deployed online real time execution utilizing live data dcs plc systems generate predictions predicted data even written back dcs closed loop control optimization
+optimizeit provides real time guidance operators adjusting operating parameters using historical data models built key performance indicators kpis used predict kpi outcomes models gains weights incorporated linear programming lp quadratic programming qp optimization framework determine optimal conditions kpi improvement optimized guidelines communicated back dcs empowering operators make informed adjustments plant example power plant optimizeit identify variables increase decrease optimize boiler heat rate
+askit boosts team productivity providing natural language interface insis ai assistant offers chatbot interface enabling users ask questions related plant information tags current values analytics several generative ai based use cases already integrated within insis apps functionality increases team productivity significantly reduces time required access critical information edited
+available cloud premise
+subscription based model
+self service role based access
+ready made solutions industry
+accurate quality predictions real time
+early failure detection response timing
+optimization operating conditions
+allocation resources optimally
+built support data integration
+gpu support faster processing
+scalable multi site operations
+integration layers insis
+insis ai insis suite seamlessly integrated insis suite powers digital transfrmation array solutions insis ai adds value layer combining predictability generativity optimize processes enhance digitalization streamline processes improve data availability quality system features user friendly interface operators engineers providing real time dashboards alerts detailed reports
+# inSis Suite
+embarking digital transformation seeking process optimization aspiring unlock potential time series data insis suite jaaji technologies offers powerful solutions process manufacturing industries achieve operational success
+embarking digital transformation seeking process optimization aspiring unlock potential time series data insis suite jaaji technologies offers powerful solutions process manufacturing industries achieve operational success
+industrial smart information system suite insis comprehensive integrated platform addresses diverse needs across operations maintenance quality technical services process manufacturing industries built multi layer architecture insis suite ensures reliability responsiveness security applications wide range features industry 4 0 solutions insis suite helps measure analyze improve manufacturing performance driving digital transformation unlocking new possibilities
+kept emphasised reminds us core aspects insis platform
+insis suite brings best mix powerful features manage daily operations adopts modular approach ensuring tailor platform organization unique needs provides flexibility allowing selective deployment modules based specific business needs
+explore comprehensive suite sub modules within insis suite designed address specific business needs
+explore core technologies drive insis suite enable comprehensive data management capabilities
+built multi layer architecture insis suite ensures reliability responsiveness security applications platform integration capabilities including ot integration allow seamless data flow different systems eliminating silos ensuring data consistency system designed handle large volumes data complex workflows maintaining optimal efficiency
+insis suite operates collecting data various sources including sensors devices systems collected data processed cleansed transformed analyzed extract valuable insights processed data presented various roles visual formats charts graphs easy understanding analysis based predefined rules conditions platform trigger automated actions streamlining workflows reducing manual intervention additionally insis suite seamlessly integrates systems applications facilitate data exchange optimize overall operations
+insis suite operates collecting data various sources including sensors devices systems collected data processed cleansed transformed analyzed extract valuable insights
+# Solution benefits
+utilize asset performance 360 appreciate importance comprehensive platform capture end end view assets
+utilize asset performance 360 appreciate importance comprehensive platform capture end end view assets
+location india
+project comprised around 100 logbooks configured implemented 60 hand held devices solutions integrated client existing historian mes systems covering around 15 units manual automated data capture implemented
+solution asset kpis alerts anomalies reports unified capability drill finest asset level thereby allowing effective management assets
+asset performance 360 allows enhance overall performance assets simplified root cause analysis easy identification anomalies
+software increases reliability predictability assets use advanced analytics
+maintaining peak asset performance crucial industrial operations reactive maintenance costly disruptive asset performance 360 steps innovative preventive maintenance pm compliance feature transforming approach reactive proactive
+product enhances decision making capability automated alert system allows real time detection abnormal conditions
+software enables combine harmonise data multiple sources
+asset performance 360 comprehensive tool helps organizations track monitor optimize critical assets throughout lifecycle system maintains centralized database critical assets integrating data various sources data includes live status historical trends every parameter critical assets provides health profiles various assets anomaly detection easy root cause analysis rca leverages comparative scenario analysis data driven decisive action
+solution provides birds eye view plant operations entirety also allows drill second unit level third asset group level fourth asset level details solution also carries performance management various kpis alerts notifications anomalies reports dashboards
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+logbooks installed leading refinery project comprised around 100 logbooks configured
+developed poc remote oil well monitoring offers real time data greater
+# Schedule a product demo
+see work automate enhance operational efficiencies
+super critical thermal power plant 4 660 mw faced lack availability real time data
+challenge faced unavailability real time data power consumption monitoring leading
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+see work automate enhance operational efficiencies
+# Solution benefits
+insis reports solution easily access share relevant reports across various office applications thereby fostering transparency collaboration within organization
+insis reports solution easily access share relevant reports across various office applications thereby fostering transparency collaboration within organization
+location pithampur india
+solution designed insis web scada enabled relay mass composition gas generating gas billing flow computers fc auto web based reports generation solution updates data 34 fcs scattered across 30 kms radius writing back gas flow data fcs helped client get proper billing generated 80 savings time allowed better operations management remotely 2 control stations
+insis reports efficiently collects integrates real time data stores centrally calculations reporting
+decide intervals report published
+interdependent reports management capability ensures reports coordinated work together effectively achieve desired outcome involves following
+reports platform set structured process managing entire lifecycle report permitting specific users following actions
+insis reports streamlines automates entire reporting process collects real time data various sources including dcs historians lims sap whether data comes automated systems manual data forms consolidated processed required transformations calculations logic applied create relevant reports
+system offers secure customizable role based views users schedule reports publication specific intervals daily weekly etc reports exported excel pdf formats emailed specific recipients concerned personnel review either approve reject reports stored future reference thus insis reports simplifies reporting ensures accuracy promotes transparency within organization
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+one largest refineries india looking comprehensive reporting analytics
+solution designed insis web scada enabled relay mass composition gas
+use control
+website like many websites around world use cookies variety purposes including ensuring website functions would expect remembering preferences gathering anonymous marketing data never collect use cookies track personally identifiable data without express permission website using cookies enable functionality site allow share pages social networks like facebook track website usage continue improve website
+granting us permission use cookies continuing use website seeing notice reading page indicating happy us set cookies browser line document wish use site would like us set cookies browser learn disable remove cookies please note however impact functionality site
+cookies set first party cookies achieve following make product listings filters work determining logged remember filter settings remembering informed cookie policy stop us setting cookies need set browser reject cookies see
+third party functions site may time time include functionality provided websites youtube videos images located 3rd party servers 3rd parties may set cookies control wish accept third party cookies done following instructions provided however disabling cookies may break functions offered third parties
+anonymous visitor statistics cookies use services provided google analytics track visitors build picture visitors use website come pages visit etc order google analytics set three cookies browser personally identifiable information stored data receive anonymous
+turning cookies modern browsers may elect reject cookies provide instructions please note however parts website may longer function expected concerns based around 3rd party cookies recommend reject cookies rather cookies still provide functionality expect
+wish stop browser accepting cookies see following pages
+mozilla firefox http support mozilla org en us kb enable disable cookies website preferences
+google chrome https support google com chrome bin answer py hl en answer 95647 p cpn cookies
+internet explorer http windows microsoft com en us windows vista block allow cookies
+safari http support apple com kb ph5042
+# Meet our Team.Passionate. Innovative. Experienced
+lead care guided core values driven shared passion
+lead care guided core values driven shared passion
+# Solution benefits
+implementing morning meeting dashboard create efficient collaborative productive work environment ultimately leading improved business outcomes
+implementing morning meeting dashboard create efficient collaborative productive work environment ultimately leading improved business outcomes
+morning meeting dashboard provides central platform crucial information ensuring everyone access latest data updates one place
+pre populated agendas used outline key topics steps discussed morning meetings
+everyone access information encouraging active participation promoting collaborative environment
+morning meeting dashboard streamlines workflow providing centralized platform provide consolidated view issues comments
+morning meeting dashboard set additional features makes even valuable organization
+morning meeting dashboard serves critical tool coordinating activities setting priorities addressing challenges across various teams morning meeting brings together teams different departments typically happens start day tool displays relevant real time production data key performance indicators kpis centralized platform monitors analyses reports various metrics
+dashboards operational overviews asset performance performance dashboards provide real time insights improve efficiency streamlining processes reducing manual efforts enhance visibility operations reduce cost identifying inefficiencies bottlenecks improve decision making
+# Schedule a product demo
+see work automate enhance operational efficiencies
+solution designed insis web scada enabled relay mass composition gas
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+key challenge faced real time monitoring calibration online analyzers data
+see work automate enhance operational efficiencies
+# Solution Benefits
+safety interlock bypass management system workflow approval traceability root cause analysis facilitated one single platform
+safety interlock bypass management system workflow approval traceability root cause analysis facilitated one single platform
+tracks traces actions safety interlock bypasses provides single consolidated view real time status interlocks across plant includes appropriate authorization workflow bypass requests
+digital footprint bypasses done easy analysis process asset performance module tracks interlock system adjustments including initiator rationale approver bypass duration complete change history
+solution co generation power plant deployed across 4 sites varying capacities key challenge faced lack availability real time data power generation consumption therefore receiving high penalties solution monitors real time data mobile web auto web based reports enables make prompt decisions leads improved asset life span minimal penalties higher incentives
+policy applies user registered user web site jaaji software technologies pvt ltd owner provider web site jaajitechs product service websites jaajitech mobile application products www jaajitech com policy applies use data collected us relation use web site services systems therein
+1 definitions interpretation
+policy following terms shall following meanings account means collectively personal information payment information credentials used users access material communications system web site content means text graphics images audio video software data compilations form information capable stored computer appears forms part web site cookie means small text file placed computer jaajitech visit certain parts web site allows us identify recurring visitors analyse browsing habits within web site data means collectively information submit web site includes limited account details information submitted using services systems registered user registered users means registered third party accesses web site employed jaajitech acting course employment jaajitech means jaaji software technologies pvt ltd trading jaajitech jaaji technologies whose registered office 8 55 3 3rd line weavers colony chimakurthy service means collectively online facilities tools services information jaajitech makes available web site either future system means online communications infrastructure jaajitech makes available web site either future includes limited web based email message boards live chat facilities email links user users means third party accesses web site employed jaajitech acting course employment web site means website sub domains site unless expressly excluded terms conditions product service website jaajitech website used provision licenced service controlled managed licenced organisation licenced organisation organisation contracted provision services jaajitech product service website may enable users mobile apps user licenced organisation commonly employer
+2 data collected collection data kept minimum reasonable purpose provision service performance analysis improvement services delivered information entered registered users collected purpose fulfilling contractual obligations jaajitech including audit support application improvement without limitation following data may collected 2 1 name job title employer contact information email addresses telephone numbers demographic information addresses post codes preferences interests 2 2 technical environment browser used access application operating used purpose audit support performance improvement application enhancement may include may vary time time ip address web browser type version operating system mobile apps users similar information collected purpose may vary device including udid similar 2 3 list urls starting referring site activity web site site exit automatically collected 2 4 cookie information see clause 10 2 5 system information relative use registered user consented provide information products services requested us
+3 use data 3 1 personal data submit retained jaajitech long use services systems provided web site data may submit communications system may provide used deliver services requested may retained longer period 3 2 unless obliged law permission data disclosed third parties 3 3 personal data stored securely 3 4 data may required us time time order provide best possible service experience using web sites specifically data may used us following reasons 3 4 1 internal record keeping audit purposes 3 4 2 improvement products services 3 4 3 transmission email promotional materials may interest specifically may requested information 3 4 4 contact market research purposes may done using email telephone mail information may used customise update web site
+4 controlling access data
+4 1 product service websites data required enter user product service website defined required licenced organisation provided access data control licenced organisation normally data controller product service websites jaajitech operating data processor 4 2 jaajitech websites websites data requested entry voluntary may required give access otherwise restricted areas typically data used jaajitech direct marketing purposes passed third party contact request made relation service provided licenced organisation jaajitech may pass details administrators licenced organisation
+5 right withhold information 5 1 product service websites use product service websites data collected used within determined controlled licenced organisation subject privacy policy organisation 5 2 jaajitech websites websites data requested entry voluntary may required give access otherwise restricted areas typically data used jaajitech direct marketing purposes passed third party
+6 accessing data 6 1 product service websites access changes data may effected application must request made administrator licenced organisation 6 2 websites request must made contact form jaajitech website emailing support jaajitech com 6 2 right ask copy personal data see subject access requests
+7 security encryption 7 1 data security great importance jaajitech protect data put place suitable physical electronic managerial procedures safeguard secure data collected online 7 2 security procedures place protect confidentiality integrity availability user registered user information
+8 cookies 8 1 jaajitech may set access cookies computer 8 2 cookie small file resides computer hard drive often contains anonymous unique identifier accessible web site placed sites 8 3 may delete cookies however may lose information enables access web site quickly 8 4 choose enable disable cookies web browser default browser accept cookies however altered details please consult help menu browser disabling cookies may prevent using full range services available web site
+9 third party web sites services time time site may contain links websites partner networks advertisers affiliates visit sites please note privacy policies check submitting personal data cannot accept responsibility liability policies
+10 subject access requests subject access request must made sufficient information clearly identify including contact details please provide full name address phone email employing organisation additional details proofs may required information given subject access requests must made licenced organisation relation data held jaajitech behalf licenced organisation subject access request made directly jaajitech relation data held behalf licenced organisation passed licenced organisation fulfilment notified accordingly subject access requests made variety ways including emailing support jaajitech com
+11 changes policy jaajitech reserves right change privacy policy may deem necessary time time may required law changes immediately posted web site deemed accepted terms policy first use web site following alterations questions comments regarding privacy policy please email support jaajitech com
+# Solutions
+optimize automate elevate explore industrial solutions
+# Digital Operations Logbooks
+digitalize field operator data entry intuitive analytics ai based comment summaries
+# Digital Maintenance Logbooks
+digitalize asset check lists consolidate process asset data
+# Laboratory Information Management System
+enhance lab performance effective automation
+# Energy Management System
+digital ally comprehensive energy management
+# Deviation Settlement Mechanism (DSM / ABT)
+effortlessly overcome abt deviation challenges good
+# Web-based Reports Automation
+make smarter choices instantly accurate web reports
+# Asset Performance 360°
+optimize performance reliability longevity critical assets
+# Morning Meeting Dashboard
+efficient meetings backed accurate data peak performance
+# Integrity Operating Window
+defines safe operational limits valuable equipment
+# E-Lab Registers
+digital lab companion smart seamless documentation
+# Safety Interlock Bypass Management
+well defined governance ensure effective accountability
+# Analyzer Management & Data Acquisition
+maximize analyzer performance live monitoring kpi analysis
+# Performance Management System
+optimize performance process asset energy environment
+# Data Historian & Analytics
+unify process data prime time series based data historian
+# inSis Batch Management
+unified digital framework collection storage analysis reporting batch manufacturing records real time ai powered batch monitoring optimisation
+optimize automate elevate explore industrial solutions
+digitalize field operator data entry intuitive analytics ai based comment summaries
+digitalize asset check lists consolidate process asset data
+enhance lab performance effective automation
+digital ally comprehensive energy management
+effortlessly overcome abt deviation challenges good
+make smarter choices instantly accurate web reports
+optimize performance reliability longevity critical assets
+efficient meetings backed accurate data peak performance
+defines safe operational limits valuable equipment
+digital lab companion smart seamless documentation
+well defined governance ensure effective accountability
+maximize analyzer performance live monitoring kpi analysis
+optimize performance process asset energy environment
+unify process data prime time series based data historian
+unified digital framework collection storage analysis reporting batch manufacturing records real time ai powered batch monitoring optimisation
+# Our Core Values
+built upon three core values form bedrock identity principles deeply ingrained company culture influence everything product development client interactions grow enduring values remain unwavering compass directs journey
+built upon three core values form bedrock identity principles deeply ingrained company culture influence everything product development client interactions grow enduring values remain unwavering compass directs journey
+# Schedule a product demo
+see work automate enhance operational efficiencies
+solution analyser management system amadas designed eru eg units refinery
+logbooks installed leading refinery project comprised around 100 logbooks configured
+developed poc remote oil well monitoring offers real time data greater
+see work automate enhance operational efficiencies
+# Solution benefits
+laboratory information management system enhances lab performance reduces errors ensures compliance industry standards provides online availability laboratory inventory sample information supports paperless labs reduces need paper documentation
+# Real-time
+online data decision making
+laboratory information management system enhances lab performance reduces errors ensures compliance industry standards provides online availability laboratory inventory sample information supports paperless labs reduces need paper documentation
+online data decision making
+location india
+implemented insis laboratory information management system lims across eight sites leading dairy manufacturer automating workflows eight product types managing around 50 samples per site daily across 300 350 sample types solution centralized sample management enabled real time monitoring secure data entry automated alerts detailed reporting enhancing analytics collaboration audit readiness across sites
+lims seamlessly integrated historian performance modules system ensures data integrity providing data validation review approvals accordingly system connects seamlessly various analytical instruments balances plant instrument automate data acquisition eliminate manual transcription errors manage track batch testing automated data capture analytical instruments implement real time analysis raw materials finished products intermediate stages
+laboratory information management system integrates existing production planning erp quality management systems holistic view operations facilitate closed loop feedback adapting new old models facilitating standardized procedures practices across diverse teams lims also import instrument result files use extracted data quality control assessment
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+# Oil & Gas
+elevate operational efficiencies cutting edge cost effective digital solutions
+# Petrochemicals
+solutions help automate tasks optimize production lines boost quality
+# Chemicals
+help adapt demand shifts optimize product mix improve efficiency
+# Power Plants
+help maximize fuel efficiency track assets predict asset maintenance needs
+# Metals
+equip insights smarter extraction improved processing maximized yield
+# Cement
+enable productive environment efficient processes powered data analytics
+# Paper & Pulp
+streamline data anaytics optimize performance safer reliable efficient build
+# Renewable Energy
+empower produce reliable clean affordable power industry evolves
+# Digital Logbooks
+digitalizes data logging field operator panel operator shift engineers
+# Asset Performance
+optimize performance reliability longevity critical assets
+# Energy Management
+build energy efficiency slash energy costs boost profits
+# inSis Suite with AI
+empower industrial operations insis suite comprehensive solution powered cutting edge ai platform insis ai
+# GetSmarter
+relevant information available fingertips time every time make intelligent prompt decisions levels across domains enterprise achieved industry centric data analytics done critical date data made available integrated platform transformative digitalization technologies
+# Integration of Dashboards with Central RDMS Server for R&D Unit
+key objective integration dashboards reports slds analytics around 22
+# Monitor Real-time Data with ABT/DSM/UI Solutions
+solution co generation power plant deployed across 4 sites varying capacities
+# NextGen Refinery MIS Portal with Data Analytics & Mobility
+one largest refineries india looking comprehensive reporting analytics
+elevate operational efficiencies cutting edge cost effective digital solutions
+solutions help automate tasks optimize production lines boost quality
+help adapt demand shifts optimize product mix improve efficiency
+help maximize fuel efficiency track assets predict asset maintenance needs
+equip insights smarter extraction improved processing maximized yield
+enable productive environment efficient processes powered data analytics
+streamline data anaytics optimize performance safer reliable efficient build
+empower produce reliable clean affordable power industry evolves
+insis suite new generation software process data aggregation compression storage calculation visualisation powered time series data historian capabilities insis offers multiple solutions including automated reports dashboards digital logbook kpi management etc offer end end views plant processes leveraging power sophisticated methods technologies like generative ai ml enhanced simplicity products
+digitalizes data logging field operator panel operator shift engineers
+optimize performance reliability longevity critical assets
+build energy efficiency slash energy costs boost profits
+empower industrial operations insis suite comprehensive solution powered cutting edge ai platform insis ai
+relevant information available fingertips time every time make intelligent prompt decisions levels across domains enterprise achieved industry centric data analytics done critical date data made available integrated platform transformative digitalization technologies
+key objective integration dashboards reports slds analytics around 22
+solution co generation power plant deployed across 4 sites varying capacities
+one largest refineries india looking comprehensive reporting analytics
+# Solution benefits
+abt dsm solution provides clarity control need manage energy production ensure grid stability minimize costs thrive dynamic energy market
+# Real-time
+data visibility
+abt dsm solution provides clarity control need manage energy production ensure grid stability minimize costs thrive dynamic energy market
+data visibility
+location india
+project comprised 150 analytical views 25 trends 10 reports 100 notifications and10 dashboards modules including meter data collection analytics dashboards trends reports notifications portal mobile apps installed configured stage wise overall dsm dashboards reports analytical views provided real time meter data layer using insis opc ua server reports configured delivered via email connectivity established ot order streamline operations
+abt dsm solution provides real time data monitoring helps manage scheduled generation sldcs excel file upload manual entry ui optimization powerful feature delivers continuous stream information energy consumption system monitors following parameters
+abt dsm solution boasts powerful built calculation engine intelligent tool takes complexity abt dsm automating intricate calculations include following
+abt dsm solution acquires robust data using variety protocols like modbus opc also interfaces plc scada dcs etc operations data acquisition empowers intelligent analytics reporting provides provision web based reports excel based reports auto scheduler email delivery sub features include following
+unleash full potential energy market seamless iex rtm rldc integration within insis abt dsm solution
+abt dsm solution empowers robust kpi key performance indicator management system feature helps achieve following
+system proactively sends real time alerts directly chosen devices notifying critical situations could impact energy costs emails sms alerts sent following conditions
+analysing real time energy data grid conditions system predicts potential cost fluctuations recommends optimal energy consumption strategies achieved following tasks system continuously collects operations well meter data using variety protocols interfaces
+performs complex calculations related abt dsm guidelines unscheduled interruption rate profit loss performance calculations fully self service web based user interfaces used configuring monitoring analysis reporting also notifications sent via e mail sms non compliance deviations
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+solution co generation power plant deployed across 4 sites varying
+super critical thermal power plant 4 660 mw faced lack availability real time data
+# Oil & Gas
+elevate operational efficiencies cutting edge cost effective digital solutions
+# Petrochemicals
+solutions help automate tasks optimize production lines boost quality
+# Chemicals
+help adapt demand shifts optimize product mix improve efficiency
+# Power Plants
+help maximize fuel efficiency track assets predict asset maintenance needs
+# Metals
+equip insights smarter extraction improved processing maximized yield
+# Cement
+enable productive environment efficient processes powered data analytics
+# Paper & Pulp
+streamline data anaytics optimize performance safer reliable efficient build
+# Renewable Energy
+empower produce reliable clean affordable power industry evolves
+# Digital Logbooks
+digitalizes data logging field operator panel operator shift engineers
+# Asset Performance
+optimize performance reliability longevity critical assets
+# Energy Management
+build energy efficiency slash energy costs boost profits
+# inSis Suite with AI
+empower industrial operations insis suite comprehensive solution powered cutting edge ai platform insis ai
+# GetSmarter
+relevant information available fingertips time every time make intelligent prompt decisions levels across domains enterprise achieved industry centric data analytics done critical date data made available integrated platform transformative digitalization technologies
+# Integration of Dashboards with Central RDMS Server for R&D Unit
+key objective integration dashboards reports slds analytics around 22
+# Monitor Real-time Data with ABT/DSM/UI Solutions
+solution co generation power plant deployed across 4 sites varying capacities
+# NextGen Refinery MIS Portal with Data Analytics & Mobility
+one largest refineries india looking comprehensive reporting analytics
+elevate operational efficiencies cutting edge cost effective digital solutions
+solutions help automate tasks optimize production lines boost quality
+help adapt demand shifts optimize product mix improve efficiency
+help maximize fuel efficiency track assets predict asset maintenance needs
+equip insights smarter extraction improved processing maximized yield
+enable productive environment efficient processes powered data analytics
+streamline data anaytics optimize performance safer reliable efficient build
+empower produce reliable clean affordable power industry evolves
+insis suite new generation software process data aggregation compression storage calculation visualisation powered time series data historian capabilities insis offers multiple solutions including automated reports dashboards digital logbook kpi management etc offer end end views plant processes leveraging power sophisticated methods technologies like generative ai ml enhanced simplicity products
+digitalizes data logging field operator panel operator shift engineers
+optimize performance reliability longevity critical assets
+build energy efficiency slash energy costs boost profits
+empower industrial operations insis suite comprehensive solution powered cutting edge ai platform insis ai
+relevant information available fingertips time every time make intelligent prompt decisions levels across domains enterprise achieved industry centric data analytics done critical date data made available integrated platform transformative digitalization technologies
+key objective integration dashboards reports slds analytics around 22
+solution co generation power plant deployed across 4 sites varying capacities
+one largest refineries india looking comprehensive reporting analytics
+# 1. OVERVIEW
+terms service agreement agreement entered jaaji software technologies pvt ltd registered address jaaji software technologies pvt ltd 3rd line weavers colony chimakurthy 523226 ap india company made effective date use website www jaajitech com date electronic acceptance agreement sets forth general terms conditions use www jaajitech com well products services purchased accessed site services whether simply browsing using site purchase services use site electronic acceptance agreement signifies read understand acknowledge agree bound agreement privacy policy terms us shall refer company terms user customer shall refer individual entity accepts agreement uses site access uses services nothing agreement shall deemed confer third party rights benefits
+company may sole absolute discretion change modify agreement policies agreements incorporated herein time changes modifications shall effective immediately upon posting site use site services changes modifications made shall constitute acceptance agreement last revised
+agree bound agreement last revised use continue use site services
+# 2. ELIGIBILITY
+site services available users form legally binding contracts applicable law using site services represent warrant least eighteen 18 years age ii otherwise recognized able form legally binding contracts applicable law iii person barred purchasing receiving services found laws india applicable jurisdiction entering agreement behalf company corporate entity represent warrant legal authority bind corporate entity terms conditions contained agreement case terms user customer shall refer corporate entity electronic acceptance agreement company finds legal authority bind corporate entity personally responsible obligations contained agreement
+# 3. RULES OF USER CONDUCT
+using site acknowledge agree
+# 4. INTELLECTUAL PROPERTY
+addition general rules provisions section apply specifically use companies content posted site companies content site including without limitation text software scripts source code api graphics photos sounds music videos interactive features trademarks service marks logos contained therein companies content owned licensed jaaji software technologies pvt ltd perpetuity subject copyright trademark patent protection companies content provided available faults information personal non commercial use may downloaded copied reproduced distributed transmitted broadcast displayed sold licensed otherwise exploited purposes whatsoever without express prior written consent company right license copyright trademark patent proprietary right license granted agreement
+# 5. DISCLAIMER OF REPRESENTATIONS AND WARRANTIES
+specifically acknowledge agree use site shall risk site provided available faults company officers directors employees agents disclaim warranties statutory express implied including limited implied warranties title merchantability fitness particular purpose non infringement company officers directors employees agents make representations warranties accuracy completeness content site ii accuracy completeness content sites linked hyperlinks banner advertising otherwise site iii services found site sites linked hyperlinks banner advertising otherwise site company assumes liability responsibility addition specifically acknowledge agree oral written information advice provided company officers directors employees agents third party service providers constitute legal financial advice ii create warranty kind respect site services found site users rely information advice foregoing disclaimer representations warranties shall apply fullest extent permitted law shall survive termination expiration agreement use site services found site
+# 6. LIMITATION OF LIABILITY
+event shall company officers directors employees agents third party service providers liable person entity direct indirect incidental special punitive consequential damages whatsoever including damages may result accuracy completeness content site ii accuracy completeness content sites linked hyperlinks banner advertising otherwise site iii services found site sites linked hyperlinks banner advertising otherwise site iv personal injury property damage nature whatsoever v third party conduct nature whatsoever vi interruption cessation services site sites linked hyperlinks banner advertising otherwise site vii viruses worms bugs trojan horses like may transmitted site sites linked hyperlinks banner advertising otherwise site viii user content content defamatory harassing abusive harmful minors protected class pornographic x rated obscene otherwise objectionable ix loss damage kind incurred result use site services found site whether based warranty contract tort legal equitable theory whether company advised possibility damages addition specifically acknowledge agree cause action arising related site services found site must commenced within one 1 year cause action accrues otherwise cause action shall permanently barred foregoing limitation liability shall apply fullest extent permitted law shall survive termination expiration agreement use site services found site
+# 7. INDEMNITY
+agree protect defend indemnify hold harmless company officers directors employees agents claims demands costs expenses losses liabilities damages every kind nature including without limitation reasonable attorneys fees imposed upon incurred company directly indirectly arising use access site ii violation provision agreement policies agreements incorporated herein iii violation third party right including without limitation intellectual property proprietary right indemnification obligations section shall survive termination expiration agreement use site services found site
+# 8. DATA TRANSFER
+visiting site country country servers located communications us may result transfer information across international boundaries visiting site communicating electronically us consent transfers
+# 9. AVAILABILITY OF WEBSITE
+subject terms conditions agreement policies shall use commercially reasonable efforts attempt provide site 24 7 basis acknowledge agree time time site may inaccessible reason including limited periodic maintenance repairs replacements undertake time time causes beyond control including limited interruption failure telecommunication digital transmission links failures acknowledge agree control availability site continuous uninterrupted basis assume liability party regard thereto
+# 10. DISCONTINUED SERVICES
+company reserves right cease offering providing services time reason without prior notice although company makes great effort maximize lifespan services times service offer discontinued case product service longer supported company case company either offer comparable service migrate refund company liable third party modification suspension discontinuance services may offer facilitate access
+# 11. FEES AND PAYMENTS
+acknowledge agree payment charged processed jaaji software technologies pvt ltd agree pay prices fees due services purchased obtained site time order services company expressly reserves right change modify prices fees time changes modifications shall posted online site effective immediately without need notice refund policy products services eligible refund may request refund terms conditions refund policy accessed
+# 12. NO THIRD-PARTY BENEFICIARIES
+nothing agreement shall deemed confer third party rights benefits
+# 13. COMPLIANCE WITH LOCAL LAWS
+company makes representation warranty content available site appropriate every country jurisdiction access site countries jurisdictions content illegal prohibited users choose access site responsible compliance local laws rules regulations
+# 14. GOVERNING LAW
+agreement dispute claim arising connection subject matter formation shall governed construed accordance laws india andhra pradesh exclusion conflict law rules
+# 15. DISPUTE RESOLUTION
+controversy claim arising relating terms services settled binding arbitration controversy claim must arbitrated individual basis must consolidated arbitration claim controversy party arbitration must conducted india andhra pradesh judgment arbitration award may entered court jurisdiction thereof
+# 16. TITLES AND HEADINGS
+titles headings agreement convenience ease reference shall utilized way construe interpret agreement parties otherwise set forth herein
+# 17. SEVERABILITY
+covenant agreement agreement shall construed purposes separate independent covenant agreement court competent jurisdiction holds provision portion provision agreement illegal invalid otherwise unenforceable remaining provisions portions provisions agreement shall affected thereby shall found valid enforceable fullest extent permitted law
+# 18. CONTACT INFORMATION
+questions agreement please contact us email regular mail following address
+please read terms service agreement carefully contains important information regarding legal rights remedies last revised 2021 06 04 12 53 34
+terms service agreement agreement entered jaaji software technologies pvt ltd registered address jaaji software technologies pvt ltd 3rd line weavers colony chimakurthy 523226 ap india company made effective date use website www jaajitech com date electronic acceptance agreement sets forth general terms conditions use www jaajitech com well products services purchased accessed site services whether simply browsing using site purchase services use site electronic acceptance agreement signifies read understand acknowledge agree bound agreement privacy policy terms us shall refer company terms user customer shall refer individual entity accepts agreement uses site access uses services nothing agreement shall deemed confer third party rights benefits
+company may sole absolute discretion change modify agreement policies agreements incorporated herein time changes modifications shall effective immediately upon posting site use site services changes modifications made shall constitute acceptance agreement last revised
+agree bound agreement last revised use continue use site services
+site services available users form legally binding contracts applicable law using site services represent warrant least eighteen 18 years age ii otherwise recognized able form legally binding contracts applicable law iii person barred purchasing receiving services found laws india applicable jurisdiction entering agreement behalf company corporate entity represent warrant legal authority bind corporate entity terms conditions contained agreement case terms user customer shall refer corporate entity electronic acceptance agreement company finds legal authority bind corporate entity personally responsible obligations contained agreement
+using site acknowledge agree
+addition general rules provisions section apply specifically use companies content posted site companies content site including without limitation text software scripts source code api graphics photos sounds music videos interactive features trademarks service marks logos contained therein companies content owned licensed jaaji software technologies pvt ltd perpetuity subject copyright trademark patent protection companies content provided available faults information personal non commercial use may downloaded copied reproduced distributed transmitted broadcast displayed sold licensed otherwise exploited purposes whatsoever without express prior written consent company right license copyright trademark patent proprietary right license granted agreement
+specifically acknowledge agree use site shall risk site provided available faults company officers directors employees agents disclaim warranties statutory express implied including limited implied warranties title merchantability fitness particular purpose non infringement company officers directors employees agents make representations warranties accuracy completeness content site ii accuracy completeness content sites linked hyperlinks banner advertising otherwise site iii services found site sites linked hyperlinks banner advertising otherwise site company assumes liability responsibility addition specifically acknowledge agree oral written information advice provided company officers directors employees agents third party service providers constitute legal financial advice ii create warranty kind respect site services found site users rely information advice foregoing disclaimer representations warranties shall apply fullest extent permitted law shall survive termination expiration agreement use site services found site
+event shall company officers directors employees agents third party service providers liable person entity direct indirect incidental special punitive consequential damages whatsoever including damages may result accuracy completeness content site ii accuracy completeness content sites linked hyperlinks banner advertising otherwise site iii services found site sites linked hyperlinks banner advertising otherwise site iv personal injury property damage nature whatsoever v third party conduct nature whatsoever vi interruption cessation services site sites linked hyperlinks banner advertising otherwise site vii viruses worms bugs trojan horses like may transmitted site sites linked hyperlinks banner advertising otherwise site viii user content content defamatory harassing abusive harmful minors protected class pornographic x rated obscene otherwise objectionable ix loss damage kind incurred result use site services found site whether based warranty contract tort legal equitable theory whether company advised possibility damages addition specifically acknowledge agree cause action arising related site services found site must commenced within one 1 year cause action accrues otherwise cause action shall permanently barred foregoing limitation liability shall apply fullest extent permitted law shall survive termination expiration agreement use site services found site
+agree protect defend indemnify hold harmless company officers directors employees agents claims demands costs expenses losses liabilities damages every kind nature including without limitation reasonable attorneys fees imposed upon incurred company directly indirectly arising use access site ii violation provision agreement policies agreements incorporated herein iii violation third party right including without limitation intellectual property proprietary right indemnification obligations section shall survive termination expiration agreement use site services found site
+visiting site country country servers located communications us may result transfer information across international boundaries visiting site communicating electronically us consent transfers
+subject terms conditions agreement policies shall use commercially reasonable efforts attempt provide site 24 7 basis acknowledge agree time time site may inaccessible reason including limited periodic maintenance repairs replacements undertake time time causes beyond control including limited interruption failure telecommunication digital transmission links failures acknowledge agree control availability site continuous uninterrupted basis assume liability party regard thereto
+company reserves right cease offering providing services time reason without prior notice although company makes great effort maximize lifespan services times service offer discontinued case product service longer supported company case company either offer comparable service migrate refund company liable third party modification suspension discontinuance services may offer facilitate access
+acknowledge agree payment charged processed jaaji software technologies pvt ltd agree pay prices fees due services purchased obtained site time order services company expressly reserves right change modify prices fees time changes modifications shall posted online site effective immediately without need notice refund policy products services eligible refund may request refund terms conditions refund policy accessed
+nothing agreement shall deemed confer third party rights benefits
+company makes representation warranty content available site appropriate every country jurisdiction access site countries jurisdictions content illegal prohibited users choose access site responsible compliance local laws rules regulations
+agreement dispute claim arising connection subject matter formation shall governed construed accordance laws india andhra pradesh exclusion conflict law rules
+controversy claim arising relating terms services settled binding arbitration controversy claim must arbitrated individual basis must consolidated arbitration claim controversy party arbitration must conducted india andhra pradesh judgment arbitration award may entered court jurisdiction thereof
+titles headings agreement convenience ease reference shall utilized way construe interpret agreement parties otherwise set forth herein
+covenant agreement agreement shall construed purposes separate independent covenant agreement court competent jurisdiction holds provision portion provision agreement illegal invalid otherwise unenforceable remaining provisions portions provisions agreement shall affected thereby shall found valid enforceable fullest extent permitted law
+questions agreement please contact us email regular mail following address
+# Oil & Gas
+elevate operational efficiencies cutting edge cost effective digital solutions
+# Petrochemicals
+solutions help automate tasks optimize production lines boost quality
+# Chemicals
+help adapt demand shifts optimize product mix improve efficiency
+# Power Plants
+help maximize fuel efficiency track assets predict asset maintenance needs
+# Metals
+equip insights smarter extraction improved processing maximized yield
+# Cement
+enable productive environment efficient processes powered data analytics
+# Paper & Pulp
+streamline data anaytics optimize performance safer reliable efficient build
+# Renewable Energy
+empower produce reliable clean affordable power industry evolves
+# Digital Logbooks
+digitalizes data logging field operator panel operator shift engineers
+# Asset Performance
+optimize performance reliability longevity critical assets
+# Energy Management
+build energy efficiency slash energy costs boost profits
+# inSis Suite with AI
+empower industrial operations insis suite comprehensive solution powered cutting edge ai platform insis ai
+# GetSmarter
+relevant information available fingertips time every time make intelligent prompt decisions levels across domains enterprise achieved industry centric data analytics done critical date data made available integrated platform transformative digitalization technologies
+# Integration of Dashboards with Central RDMS Server for R&D Unit
+key objective integration dashboards reports slds analytics around 22
+# Monitor Real-time Data with ABT/DSM/UI Solutions
+solution co generation power plant deployed across 4 sites varying capacities
+# NextGen Refinery MIS Portal with Data Analytics & Mobility
+one largest refineries india looking comprehensive reporting analytics
+elevate operational efficiencies cutting edge cost effective digital solutions
+solutions help automate tasks optimize production lines boost quality
+help adapt demand shifts optimize product mix improve efficiency
+help maximize fuel efficiency track assets predict asset maintenance needs
+equip insights smarter extraction improved processing maximized yield
+enable productive environment efficient processes powered data analytics
+streamline data anaytics optimize performance safer reliable efficient build
+empower produce reliable clean affordable power industry evolves
+insis suite new generation software process data aggregation compression storage calculation visualisation powered time series data historian capabilities insis offers multiple solutions including automated reports dashboards digital logbook kpi management etc offer end end views plant processes leveraging power sophisticated methods technologies like generative ai ml enhanced simplicity products
+digitalizes data logging field operator panel operator shift engineers
+optimize performance reliability longevity critical assets
+build energy efficiency slash energy costs boost profits
+empower industrial operations insis suite comprehensive solution powered cutting edge ai platform insis ai
+relevant information available fingertips time every time make intelligent prompt decisions levels across domains enterprise achieved industry centric data analytics done critical date data made available integrated platform transformative digitalization technologies
+key objective integration dashboards reports slds analytics around 22
+solution co generation power plant deployed across 4 sites varying capacities
+one largest refineries india looking comprehensive reporting analytics
+# Schedule a product demo
+see work automate enhance operational efficiencies
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+solution designed insis web scada enabled relay mass composition gas
+logbooks installed leading refinery project comprised around 100 logbooks configured
+see work automate enhance operational efficiencies
+one largest refineries india looking comprehensive reporting analytics platform cater daily needs requirement solution monitor real time data mobile web informed prompt decision making refinery performance monitoring system rpms provides end end view inventory across multiple locations enables refinery kpi management delivers automation excel based process reports provides web reports
+# Schedule a product demo
+see work automate enhance operational efficiencies
+developed poc remote oil well monitoring offers real time data greater
+logbooks installed leading refinery project comprised around 100 logbooks configured
+key challenge faced real time monitoring calibration online analyzers data
+see work automate enhance operational efficiencies
+# Solution Benefits
+defining operational boundaries iow solution aim prevent situations could compromise integrity equipment safety workers environment
+defining operational boundaries iow solution aim prevent situations could compromise integrity equipment safety workers environment
+based historical data process operations inspection team identifies critical parameters must controlled properly critical parameters identified specific operating limits established also risk assessment performed determine consequences deviations iows
+based risk priority iow defined operations team must ensure parameters maintained within operating windows must respond promptly deviations
+# Schedule a product demo
+see work automate enhance operational efficiencies
+super critical thermal power plant 4 660 mw faced lack availability real time data
+challenge faced unavailability real time data power consumption monitoring leading
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+see work automate enhance operational efficiencies
+key objective integration dashboards reports slds analytics around 22 units end end view leading quick decision making optimization process parameters achieved connecting plcs dcs central rdms server gateways monitor parameters flow temperature pressure reports dashboards automated published pre determined intervals users access centralized data mobiles laptops
+# Solution benefits
+energy management system ems provides real time visibility performs online calculations identifies abnormal conditions offers powerful analytics
+energy management system ems provides real time visibility performs online calculations identifies abnormal conditions offers powerful analytics
+location haldia west bengal india
+challenge faced unavailability real time data power consumption monitoring leading loss efficiency solution designed energy management solution ems lorawan gateway monitors real time data mobile web make prompt decisions leads better data based decision improved plant operations benefits included faster deployment lower power consumption light secure ems solution
+ems empowers clear insightful visualizations wading raw data mountains
+ems keeps loop real time insights monetary impact
+energy management system gives clear window performance advanced monitoring capabilities
+intelligent notification alert system acts 24 7 energy watchdog
+ems empowers monitor energy landscape remotely facilitating informed decision making swift action regardless distance
+energy management system ems plays crucial role optimizing energy consumption thereby improving bottom line industrial facilities carrying set related tasks system interfaces power tracking metering equipment installed throughout facility collect data also provides real time visibility power usage identifies areas energy efficiency improvements made facility managers make informed energy saving decisions notifications sent via e mail sms notable events abnormal conditions system also helps optimizing energy consumption production scenarios leveraging optimization industrial units achieve cost savings maintaining production efficiency
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+challenge faced unavailability real time data power consumption monitoring leading
+one largest refineries india looking comprehensive reporting analytics
+# Solution benefits
+insis data historian brings industrial data together single platform supporting industry standard protocols enabling seamless analysis optimization peak performance
+# Upto 1 second
+time series frequency
+insis data historian brings industrial data together single platform supporting industry standard protocols enabling seamless analysis optimization peak performance
+time series frequency
+insis data historian seamlessly integrates wide range data sources bring industrial data together empowering comprehensive analysis
+insis data historian speaks language industrial equipment ensuring seamless communication diverse protocols comprehensive data acquisition
+ensure integrity data analysis insis data historian robust data validation features
+simplify data management insis data historian intuitive data handling features
+store industrial data confidence using historian secure storage solution
+gain real time insights anywhere powerful data analytics mobility features
+data historian acts central hub industrial data seamlessly connects various sources like dcs plcs scada systems even sensors collecting real time historical data data historian cleans organizes raw data ensuring accuracy consistency
+powerful tools data historian analyzes data identifying trends anomalies finally data historian presents information clear user friendly formats like charts dashboards ultimately data historian empowers make data driven decisions optimize processes achieve peak performance operations
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+key challenge faced real time monitoring calibration online analyzers data
+solution designed insis web scada enabled relay mass composition gas
+# Solution benefits
+e lab registers offer wealth benefits beyond improved organization workflow go beyond basic documentation standardized formats organization solution provides ensure improved accessibility enhanced traceability powerful analysis
+e lab registers offer wealth benefits beyond improved organization workflow go beyond basic documentation standardized formats organization solution provides ensure improved accessibility enhanced traceability powerful analysis
+streamlined data access facilitates comprehensive data analysis fosters culture knowledge sharing within team
+say goodbye manual calculations built calculation tool streamlines workflow
+maintaining high quality standards crucial research environment e lab registers empower
+transform complex data sets easily digestible visuals user friendly data visualization tools
+understand importance data integrity safeguard data robust security measures
+e lab registers simplify research work solution makes documentation effortless data analysis easy collaboration effective innovative platform streamlines research workflow effortless data capture organization powerful search retrieval capabilities integrated calculations statistical analysis intuitive data visualization tools rest assured valuable research data protected role based access controls robust security measures prevent unauthorized access seamless collaboration features allow team members share data discuss results work together seamlessly e lab registers transform research data actionable insights paving way scientific discovery progress
+# News & Company Updates
+explore news updates insights shape future
+explore news updates insights shape future
+jaaji software technologies awarded prestigious bpcl innovation award 2023 recognizing
+happy team mates enjoying break work posing
+team members siva brahma managing director sunil c
+group team members posing photo
+team members gathered group photo offsite event
+jaaji technologies selected one top 20 promising manufacturing
+jaaji technologies shortlisted cio tech outlook 2022 one
+modbus slave device tested easily using modbus test
+jaajitech extremely delighted announce sunil kumar joined
+# Solution benefits
+using digital operations logbooks discover value centralized reliable easy access knowledge operations
+using digital operations logbooks discover value centralized reliable easy access knowledge operations
+location gujarat india
+project comprised around 100 logbooks configured implemented 60 hand held devices solutions integrated client existing historian mes systems covering around 15 units manual automated data capture implemented
+digital operations logbooks collect store visualize analyze process information allowing seamless integration interlock bypass safe limits db
+logbooks collect data dcs lims ems tms tank farm management system sap rfcs provide data analytics trends dashboards report notifications
+logbooks review key points minimize communication errors carrying effective safe shift handovers
+digital operations logbooks ensure delegation operational instructions respective teams
+data analytics capability digital operations logbooks helps analyze data gain meaningful insights optimized operations
+apart human generated comments new advanced ai based concise digital summaries provide enhanced operational efficiency ensuring easy access critical information overcoming traditional challenges paper logbooks manual summarization
+one key components digitization journey data capture digital operations logbooks
+data capture done online offline auto mode situation demands
+data integrates feeds sources like dcs historian sap lims mes making comprehensive accurate analysis
+solution captures logsheet data comments instructions activity details critical information shift details also compares logsheets scenario analysis
+additionally provides hourly shift wise daily summary views different levels stakeholders highlighting trends deviations anomalies easily understandable reports graphs charts
+apart human generated comments new advanced generative ai nlp based concise digital summaries mirror human comments ensure timely access critical information helps overcoming traditional challenges paper logbooks manual summarization
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+logbooks installed leading refinery project comprised around 100 logbooks configured
+solution analyser management system amadas designed eru eg units refinery
+# Solution benefits
+insis batch delivers transformative benefits batch manufacturing digitizing records providing real time data insights optimized operations
+insis batch delivers transformative benefits batch manufacturing digitizing records providing real time data insights optimized operations
+location india
+project aimed modernize batch manufacturing records integrating operational quality erp systems unified digital ecosystem implementing insis lims manufacturer eliminated paper based logging ensuring real time tracking improved accuracy solution enabled structured recipe management automated data fetching seamless integration abb yokogawa dcs systems standardized workflow across 700 recipes 150 templates transformation led fully paperless traceable efficient manufacturing process reducing man hours facilitating faster audits providing plant wide data visibility metrics driven decision making
+insis batch operates three interconnected modules creating comprehensive digital ecosystem batch manufacturing ebmr batch manufacturing records module acts data foundation capturing systematically storing critical batch related information centralized repository ensures data integrity accessibility paving way advanced analytics process optimization
+batch analytics module leverages rich ebmr data deliver actionable insights tools like golden batch analysis batch comparison users gain deep understanding process performance identifying trends variations drive continuous improvement data driven approach empowers manufacturers make informed decisions optimizing product quality consistency
+finally batch monitoring optimization bmo module powered insis ai provides real time process control building ai driven batch models based golden batch system detects deviations ongoing batches generating anomaly alerts providing operators guidance corrective actions proactive approach minimizes deviations reduces waste ensures consistent product quality ultimately maximizing efficiency productivity
+# Integration of Dashboards with Central RDMS Server for R&D Unit
+key objective integration dashboards reports slds analytics around 22
+# Monitor Real-time Data with ABT/DSM/UI Solutions
+solution co generation power plant deployed across 4 sites varying capacities
+# NextGen Refinery MIS Portal with Data Analytics & Mobility
+one largest refineries india looking comprehensive reporting analytics
+# Comprehensive Management of Online Analysers for a Refinery through ABB
+key challenge faced real time monitoring calibration online analyzers data
+# Monitoring & Calibration of Analysers for a Refinery through Yokogawa
+solution analyser management system amadas designed eru eg units refinery
+# ABT Monitoring & Energy Management Solution for a Thermal Power Plant
+super critical thermal power plant 4 660 mw faced lack availability real time data
+# Remote Monitoring of Pressure & Temperature of Oil-Wells in Real-time
+developed poc remote oil well monitoring offers real time data greater
+# Implementation of Real-time Monitoring of Gas Flows & Distribution
+solution designed insis web scada enabled relay mass composition gas
+# Implementation of Smart Energy Monitoring System using LoRaWAN
+challenge faced unavailability real time data power consumption monitoring leading
+# Deployment of Digital Maintenance Logbooks in a Viscose Staple Fibre Unit
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+key objective integration dashboards reports slds analytics around 22
+solution co generation power plant deployed across 4 sites varying capacities
+one largest refineries india looking comprehensive reporting analytics
+key challenge faced real time monitoring calibration online analyzers data
+solution analyser management system amadas designed eru eg units refinery
+super critical thermal power plant 4 660 mw faced lack availability real time data
+developed poc remote oil well monitoring offers real time data greater
+solution designed insis web scada enabled relay mass composition gas
+challenge faced unavailability real time data power consumption monitoring leading
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+# Solution benefits
+pms streamlines industry operations providing single intuitive platform process asset quality environmental data empowering stakeholders real time insights lowest total cost ownership class
+# Enhanced
+collaboration
+pms streamlines industry operations providing single intuitive platform process asset quality environmental data empowering stakeholders real time insights lowest total cost ownership class
+collaboration
+pms offers rich visualization analytics features tools like infoview oneview etc
+go beyond basic reports depth analysis tools reveal behind data
+create distribute automated streamlined sharable complex manufacturing reports internally externally eliminating manual work saving valuable time
+gain holistic view plant assets track performance predict maintenance needs optimize maintenance strategies maximize asset uptime efficiency
+sensing process conditions detect performance operational issues core functionality
+mobile app allows access critical data kpis performance insights go empowering informed decision making levels handful sub features mobile app
+performance management system acts central hub gathering analyzing visualizing data entire plant operation comprehensive system empowers gain deep insights processes assets energy consumption environmental impact ultimately driving efficiency sustainability profitability works seamless data acquisition powerful data transformation visualization continuous performance monitoring advanced analytics optimization collaboration mobile accessibility providing comprehensive view operations helps optimize processes minimize downtime improve energy efficiency achieve sustainability goals
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+developed poc remote oil well monitoring offers real time data greater
+logbooks installed leading refinery project comprised around 100 logbooks configured
+# Mr Sunil Kumar
+coo
+# support@jaajitech.com
+support
+# contactus@jaajitech.com
+sales
+jaaji software technologies pvt ltd 37 76 37 near marrichettu centre mangamuru road ongole andhra pradesh 523002
+phone 91 88976 98106 email contactus jaajitech com
+jaaji software technologies pvt ltd phase 7 kbhp hyderabad telangana
+mobile 91 77999 77266 email contactus jaajitech com
+jaajitech digital llc katy texas usa
+email phaneendrak jaajitech com
+coo
+support
+sales
+# Industries
+jaaji technologies offers world class cost effective digital solutions spanning operations maintenance quality technical services across industries
+jaaji technologies offers world class cost effective digital solutions spanning operations maintenance quality technical services across industries
+# Solution benefits
+using digital maintenance logbooks appreciate importance comprehensive platform capture end end plant data
+using digital maintenance logbooks appreciate importance comprehensive platform capture end end plant data
+location gujarat india
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting efficiency reducing errors preventive maintenance schedules automatically synced sap rfcs ensuring assets serviced according plan automated reports keep top management informed key maintenance data delivered directly emails
+qr code enabled checklists simplify process technicians importantly system automated preventive maintenance compliance tracking maximizing asset availability reliability across entire operation translated fewer equipment failures smoother operations ultimately sharper competitive edge
+insis digital maintenance logbooks ensure seamless integration asset information pm schedule
+digital maintenance logbooks drive compliance pm schedule automated reports deviation reports
+solution allows logbooks checklists configured asset
+insis digital maintenance logbooks ensure automation equipment history card outage report abnormality report easy collaboration
+digital maintenance logbooks provide historical data analytics taking data based decisions
+digital maintenance logbooks work multiple modes including online offline auto modes network available field offline mode used data handheld devices synced network available logbook data integrated dcs historian sap lims mes data use 4g 5g requires secure domain configuration
+maintenance logbook accessed four easy steps first step project manager pm login qr code second step checklists would visible third step pm open required checklist final step pm enter status comments
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+key challenge faced real time monitoring calibration online analyzers data
+# Solution benefits
+amadas ensures assets running smoothly maximizing uptime minimizing operational risks delivers trustworthy real time analyzer performance metrics also tackles issues like unreliable analyzer readings unplanned downtimes communication gaps maintenance operations
+amadas ensures assets running smoothly maximizing uptime minimizing operational risks delivers trustworthy real time analyzer performance metrics also tackles issues like unreliable analyzer readings unplanned downtimes communication gaps maintenance operations
+location paradip orissa india
+solution incorporated analyser management system amadas dashboards pfd kpi management tasks reports historian modules designed eru eg units refinery covering pm operations maintenance departments objective comprehensively manage online analyzers increase availability real time monitoring calibration provides record maintenance activities performed analytical instruments detects anomalies generates alerts also delivers data analytics including customized reports
+amadas provides single centralized platform consolidate data various analyzers
+amadas simplifies instrument upkeep online tools calibration maintenance scheduling
+system performs various validations verifications ensure reliability availability analyzers well accuracy data collected
+amadas performs real time calculations analysis immediate action
+system provides valuable insights calculated key performance indicators kpis
+additional features make amadas even powerful solution
+amadas takes complete control analyzer operations seamlessly gathers real time data analyzers whether shelters field regardless communication protocol comprehensive data picture allows online calibration maintenance scheduling amadas goes step validating analyzer readings lab data providing unmatched confidence results system keeps informed real time alerts notifications anomalies allowing proactive troubleshooting accessible anywhere via web mobile devices amadas empowers informed decision making go security paramount amadas ensures vapt compliance active directory integration amadas powerful secure centralized hub managing analyzers optimizing entire process
+integration rfcs
+data source integration
+usable checklist templates
+periodic updates notifications
+drag drop facility
+mobile app option
+solution analyser management system amadas designed eru eg units refinery
+key challenge faced real time monitoring calibration online analyzers data
+# Schedule a product demo
+see work automate enhance operational efficiencies
+logbooks installed leading refinery project comprised around 100 logbooks configured
+challenge faced unavailability real time data power consumption monitoring leading
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+see work automate enhance operational efficiencies
+# Schedule a product demo
+see work automate enhance operational efficiencies
+logbooks installed leading refinery project comprised around 100 logbooks configured
+super critical thermal power plant 4 660 mw faced lack availability real time data
+system replaced 10 paper logbooks 5 manual checklists digital solution boosting
+see work automate enhance operational efficiencies
