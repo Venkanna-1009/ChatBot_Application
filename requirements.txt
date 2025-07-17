@@ -1,0 +1,11 @@
+ipython
+beautifulsoup4
+requests
+nltk
+langchain
+chromadb
+accelerate
+langchain-community
+langchain-ollama
+streamlit
+
